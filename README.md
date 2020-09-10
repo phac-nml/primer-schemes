@@ -1,5 +1,13 @@
-# ncov-schemes
+# primer-schemes
 Schemes for SarsCoV2 sequencing to be used in sequence analysis pipelines
+
+## Files
+
+| File | Info |
+|-|-|
+| .primer.bed; .bed; .scheme.bed | Different formats for the coordinates of each primer in the scheme |
+| .reference.fasta | Reference fasta genome |
+| ncov-qc_*.scheme.bed | Sequencing amplicons |
 
 ## Schemes
 
