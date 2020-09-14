@@ -20,6 +20,11 @@ https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V2
 ### Artic V3
 https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V3
 
+### Freed 1kb amplicon
+https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6
+
+https://www.biorxiv.org/content/10.1101/2020.05.28.122648v2.full
+
 ### Resende 2kb amplicon
 https://www.protocols.io/view/long-reads-nanopore-sequencing-to-recover-sars-cov-bfy7jpzn
 
