@@ -29,3 +29,6 @@ https://www.biorxiv.org/content/10.1101/2020.05.28.122648v2.full
 https://www.protocols.io/view/long-reads-nanopore-sequencing-to-recover-sars-cov-bfy7jpzn
 
 https://www.biorxiv.org/content/10.1101/2020.04.30.069039v1.full.pdf
+
+### Resende 2kb amplicon v2
+Small in house modification to Primer 2_F 5’-CTGCTCAAAATTCTGTGCGTGT changing it to Primer 2_F_alt2 5’-ACTCTTGAAACTGCTCAAAATTCTGTG resulting in slightly different schemes and amplicons
