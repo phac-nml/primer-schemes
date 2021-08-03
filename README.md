@@ -20,6 +20,9 @@ https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V2
 ### Artic V3
 https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V3
 
+### Artic V4
+Updated primer-scheme designed by the Artic team. [More info here](https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V4)
+
 ### Freed 1kb amplicon
 https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6
 
