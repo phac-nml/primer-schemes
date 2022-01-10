@@ -1,5 +1,7 @@
 # primer-schemes
-Schemes for SarsCoV2 sequencing to be used in sequence analysis pipelines
+Schemes for SarsCoV2 sequencing to be used in sequence analysis pipelines.
+- Note that the matching scheme names with and without the "V" in front are the exact same, the "V" is needed for the newer versions of the `artic` pipeline to run with the wanted primer scheme
+    - The names without the "V" have been left in for compatibility with previous versions/automations already in place
 
 ## Files
 
@@ -23,7 +25,7 @@ https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V3
 ### Artic V4
 Updated primer-scheme designed by the Artic team. [More info here](https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V4)
 
-### Freed 1kb amplicon
+### Freed 1.2kb amplicon
 https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6
 
 https://www.biorxiv.org/content/10.1101/2020.05.28.122648v2.full
