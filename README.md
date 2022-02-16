@@ -23,6 +23,9 @@ https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V3
 ### Artic V4
 Updated primer-scheme designed by the Artic team. [More info here](https://github.com/artic-network/primer-schemes/tree/master/nCoV-2019/V4)
 
+### Artic V4.1
+Minor update (spiked in primers) for the Artic V4 scheme to better recover Omicron ([source](https://github.com/artic-network/artic-ncov2019) and [description](https://community.artic.network/t/sars-cov-2-v4-1-update-for-omicron-variant/342))
+
 ### Freed 1kb amplicon
 https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6
 
