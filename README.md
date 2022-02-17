@@ -26,10 +26,10 @@ Updated primer-scheme designed by the Artic team. [More info here](https://githu
 ### Artic V4.1
 Minor update (spiked in primers) for the Artic V4 scheme to better recover Omicron ([source](https://github.com/artic-network/artic-ncov2019) and [description](https://community.artic.network/t/sars-cov-2-v4-1-update-for-omicron-variant/342))
 
-### Freed 1kb amplicon
+### Freed 1.2kb amplicon
 https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6
 
-https://www.biorxiv.org/content/10.1101/2020.05.28.122648v2.full
+https://academic.oup.com/biomethods/article/5/1/bpaa014/5873518
 
 ### Resende 2kb amplicon
 https://www.protocols.io/view/long-reads-nanopore-sequencing-to-recover-sars-cov-bfy7jpzn
