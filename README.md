@@ -27,9 +27,14 @@ Updated primer-scheme designed by the Artic team. [More info here](https://githu
 Minor update (spiked in primers) for the Artic V4 scheme to better recover Omicron ([source](https://github.com/artic-network/artic-ncov2019) and [description](https://community.artic.network/t/sars-cov-2-v4-1-update-for-omicron-variant/342))
 
 ### Freed 1.2kb amplicon
+Also called the midnight or V1200 primer scheme
+
 https://www.protocols.io/view/sars-cov-2-tailed-amplicon-illumina-sequencing-bge5jtg6
 
 https://academic.oup.com/biomethods/article/5/1/bpaa014/5873518
+
+### Freed 1.2kb amplicon V2 NML
+NML adapted primer scheme with minor changes to address Omicron amplicon dropouts
 
 ### Resende 2kb amplicon
 https://www.protocols.io/view/long-reads-nanopore-sequencing-to-recover-sars-cov-bfy7jpzn
