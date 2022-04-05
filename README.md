@@ -11,7 +11,7 @@ Schemes for SarsCoV2 sequencing to be used in sequence analysis pipelines
 
 ### File Format Clarifications 2022-04-05
 - `<NAME>.bed` coordinates file used by ncov-tools
-- `<NAME>.scheme.bed` coordinates file used by ARTIC fieldbioinformatics minion pipeline
+- `<NAME>.scheme.bed` coordinates file used by ARTIC fieldbioinformatics nanopore pipeline
     - Had to add the "nCoV-2019" versions for `V4` and `V4.1` to match other schemes for the pipeline
         - Could have linked the "nCoV-2019" directory as "SARS-CoV-2" instead but adding the files for the moment is a bit cleaner
 - `ncov-qc_*.scheme.bed` amplicon coordinates with the "nCoV-2019" naming convention
