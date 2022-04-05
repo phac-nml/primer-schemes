@@ -7,7 +7,14 @@ Schemes for SarsCoV2 sequencing to be used in sequence analysis pipelines
 |-|-|
 | .primer.bed; .bed; .scheme.bed | Different formats for the coordinates of each primer in the scheme |
 | .reference.fasta | Reference fasta genome |
-| ncov-qc_*.scheme.bed | Sequencing amplicons |
+| ncov-qc_*.scheme.bed | Sequencing amplicons for ncov-tools |
+
+### File Format Clarifications 2022-04-05
+- `<NAME>.bed` coordinates file used by ncov-tools
+- `<NAME>.scheme.bed` coordinates file used by ARTIC fieldbioinformatics minion pipeline
+    - Had to add the "nCoV-2019" versions for `V4` and `V4.1` to match other schemes for the pipeline
+        - Could have linked the "nCoV-2019" directory as "SARS-CoV-2" instead but adding the files for the moment is a bit cleaner
+- `ncov-qc_*.scheme.bed` amplicon coordinates with the "nCoV-2019" naming convention
 
 ## Schemes
 
